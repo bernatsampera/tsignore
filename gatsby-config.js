@@ -8,7 +8,7 @@ module.exports = {
       twitter: '',
     },
   },
-  pathPrefix: '/',
+  pathPrefix: '/ts-ignore',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
